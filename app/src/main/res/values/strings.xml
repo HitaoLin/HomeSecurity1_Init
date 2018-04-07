@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">智能窗帘控制</string>
+    <string name="ip_tip"><font size="14">请输入IP地址，如http://192.168.14.221:1512</font></string>
+    <string name="project_tip"><font size="14">请输入项目标识</font></string>
+    <string name="username_tip"><font size="14">请输入用户名</font></string>
+    <string name="pwd_tip"><font size="14">请输入密码</font></string>
+</resources>

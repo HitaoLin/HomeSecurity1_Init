@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="textcolor_while">#dbdbdb</color>
+    <color name="textcolor_black">#535353</color>
+    <color name="title_black">#171923</color>
+    <color name="title_blue">#429EF1</color>
+    <color name="title_blue2">#419EF1</color>
+    <color name="title_gray">#4E4E4E</color>
+    <!--透明-->
+    <color name="transparent">#95ffffff</color>
+</resources>
